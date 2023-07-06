@@ -1,0 +1,1 @@
+## Hello! this is my first approach to python!, wish me luck (:
